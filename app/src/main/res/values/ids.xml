@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText" type="id" />
+    <item name="write_button" type="id" />
+    <item name="text" type="id" />
+    <item name="result" type="id" />
+    <item name="date_output" type="id" />
+    <item name="time_output" type="id" />
+    <item name="history" type="id" />
+</resources>

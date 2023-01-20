@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi">BMI</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="bmi_history">BMI History</string>
+    <string name="date">Date</string>
+    <string name="date_output"></string>
+    <string name="time_output"></string>
+    <string name="time">Time</string>
+    <string name="result">Considered</string>
+    <string name="kg"></string>
+    <string name="cm"></string>
+    <string name="bmi_result"></string>
+    <string name="resultOutput"></string>
+    <string name="calculate">Calculate</string>
+    <string name="history"></string>
+    <string name="list"></string>
+    <string name="result_history"></string>
+</resources>
